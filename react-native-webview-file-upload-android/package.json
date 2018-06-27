@@ -1,0 +1,73 @@
+{
+  "_args": [
+    [
+      "react-native-webview-file-upload-android@0.4.2",
+      "/Users/ambreesh/Documents/WorkSpace/mypatapp"
+    ]
+  ],
+  "_from": "react-native-webview-file-upload-android@0.4.2",
+  "_id": "react-native-webview-file-upload-android@0.4.2",
+  "_inBundle": false,
+  "_integrity": "sha1-DCl4y+gtqQlkf6f1IHBeXSzlTcY=",
+  "_location": "/react-native-webview-file-upload-android",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-webview-file-upload-android@0.4.2",
+    "name": "react-native-webview-file-upload-android",
+    "escapedName": "react-native-webview-file-upload-android",
+    "rawSpec": "0.4.2",
+    "saveSpec": null,
+    "fetchSpec": "0.4.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-webview-file-upload-android/-/react-native-webview-file-upload-android-0.4.2.tgz",
+  "_spec": "0.4.2",
+  "_where": "/Users/ambreesh/Documents/WorkSpace/mypatapp",
+  "bugs": {
+    "url": "https://github.com/Oblongmana/react-native-webview-file-upload-android/issues"
+  },
+  "dependencies": {
+    "keymirror": "^0.1.1",
+    "warning": "^3.0.0"
+  },
+  "description": "ReactNative's WebView on Android does not support file input. This library adds in an `<AndroidWebView>` that does support file input.",
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "babel-jest": "18.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "eslint": "^3.14.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.9.0",
+    "jest": "18.1.0",
+    "react-test-renderer": "15.4.2"
+  },
+  "files": [
+    "index.js",
+    "AndroidWebView.js",
+    "android/",
+    "LICENSE",
+    "README.md"
+  ],
+  "homepage": "https://github.com/Oblongmana/react-native-webview-file-upload-android#readme",
+  "license": "BSD-3-Clause",
+  "main": "index.js",
+  "name": "react-native-webview-file-upload-android",
+  "peerDependencies": {
+    "react": "^15.3.2",
+    "react-native": "^0.40.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oblongmana/react-native-webview-file-upload-android.git"
+  },
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "version": "0.4.2"
+}
